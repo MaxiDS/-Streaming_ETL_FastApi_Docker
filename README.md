@@ -8,11 +8,11 @@
 <hr>
 
 ## **TABLA DE CONTENIDO**  
-+ 1.-Introducción.  
-+ 2.-Objetivo de trabajo.  
-+ 3.-Principales tecnologías utilizadas.  
-+ 4.-Plan de Acción.  
-+ 5.-Conclusiones.  
++ 1-Introducción.  
++ 2-Objetivo de trabajo.  
++ 3-Principales tecnologías utilizadas.  
++ 4-Plan de Acción.  
++ 5-Conclusiones.  
 
 <hr>
 
@@ -119,7 +119,7 @@ Una vez tenemos nuestros datos limpios procedemos a subirlos a nuestra base de d
   
      
 
-3- *Base de datos*  
+3- *Base de datos-modelo relacional*  
   
     
   
