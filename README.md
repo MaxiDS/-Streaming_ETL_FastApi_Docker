@@ -167,7 +167,10 @@ Una vez la api esta lista y nuestro dockerfile esta en la carpeta de la api, nos
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/109487557/206548137-d8c71b68-61e7-4c41-a6e1-131935d0c0f6.png" >
-</p>  
+</p> 
+
+*Video demostración*
+https://youtu.be/gyueOpqt4h0
 
 <hr>
 
