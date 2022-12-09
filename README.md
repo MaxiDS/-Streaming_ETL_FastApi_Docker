@@ -182,8 +182,12 @@ Tambien me permitio fijar conocimientos de ETL en python y aprender a realizar q
 
 Les dejo mi linkedin: https://www.linkedin.com/in/maxi-seidl/  
 
-Un saludo a todos👋😁 y gracias por llegar hasta aca!
-
-
+Un saludo a todos👋😁 y gracias por llegar hasta aca!  
+  
+    
+<br> <br>
+<p align="center">
+<img src="https://thumbs.gfycat.com/AstonishingDentalGermanspitz-size_restricted.gif" >
+</p> 
 
 
